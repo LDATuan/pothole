@@ -1,0 +1,6 @@
+train: api/trains_images/images/train
+val: api/trains_images/images/val
+
+is_coco: False
+nc: 1
+names: ["pothole"]
