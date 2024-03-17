@@ -1,1 +1,4 @@
+train_images
+*.jpg
+*.txt
 *.zip
